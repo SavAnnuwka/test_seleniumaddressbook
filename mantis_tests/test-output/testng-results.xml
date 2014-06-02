@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68884" started-at="2014-06-01T13:28:46Z" finished-at="2014-06-01T13:29:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68884" started-at="2014-06-01T13:28:46Z" finished-at="2014-06-01T13:29:55Z">
+      <class name="com.example.tests.SignupTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.example.tests.SignupTests@6871729c]" name="setUp" is-config="true" duration-ms="358" started-at="2014-06-01T17:28:46Z" finished-at="2014-06-01T17:28:46Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initShortcuts()[pri:0, instance:com.example.tests.SignupTests@6871729c]" name="initShortcuts" is-config="true" duration-ms="18350" started-at="2014-06-01T17:28:46Z" finished-at="2014-06-01T17:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initShortcuts -->
+        <test-method status="PASS" signature="newUserShouldSignUp()[pri:0, instance:com.example.tests.SignupTests@6871729c]" name="newUserShouldSignUp" duration-ms="49448" started-at="2014-06-01T17:29:04Z" finished-at="2014-06-01T17:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserShouldSignUp -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:com.example.tests.SignupTests@6871729c]" name="deleteUser" is-config="true" duration-ms="52" started-at="2014-06-01T17:29:54Z" finished-at="2014-06-01T17:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.SignupTests@6871729c]" name="tearDown" is-config="true" duration-ms="648" started-at="2014-06-01T17:29:54Z" finished-at="2014-06-01T17:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.SignupTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
